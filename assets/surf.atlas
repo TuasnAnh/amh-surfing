@@ -1,0 +1,55 @@
+
+surf.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 577
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+btn_play
+  rotate: false
+  xy: 724, 837
+  size: 178, 99
+  orig: 178, 99
+  offset: 0, 0
+  index: -1
+fmale
+  rotate: false
+  xy: 2, 96
+  size: 320, 479
+  orig: 320, 479
+  offset: 0, 0
+  index: -1
+fmale__inactive
+  rotate: false
+  xy: 324, 179
+  size: 264, 396
+  orig: 264, 396
+  offset: 0, 0
+  index: -1
+male
+  rotate: false
+  xy: 724, 1363
+  size: 261, 494
+  orig: 261, 494
+  offset: 0, 0
+  index: -1
+male_inactive
+  rotate: false
+  xy: 724, 938
+  size: 224, 423
+  orig: 224, 423
+  offset: 0, 0
+  index: -1
+select_character
+  rotate: false
+  xy: 2, 2
+  size: 506, 92
+  orig: 506, 92
+  offset: 0, 0
+  index: -1
