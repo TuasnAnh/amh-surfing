@@ -1,0 +1,27 @@
+
+end_surfing.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GAMEOVER
+  rotate: false
+  xy: 2, 2
+  size: 622, 475
+  orig: 622, 475
+  offset: 0, 0
+  index: -1
+reload
+  rotate: false
+  xy: 724, 1640
+  size: 231, 119
+  orig: 231, 119
+  offset: 0, 0
+  index: -1
+surfing_game_asset_screen_4_GAMEOVER
+  rotate: false
+  xy: 2, 479
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
