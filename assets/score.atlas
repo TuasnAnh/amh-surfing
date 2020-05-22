@@ -1,0 +1,62 @@
+
+score.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_score
+  rotate: false
+  xy: 72, 85
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+1_score
+  rotate: false
+  xy: 104, 86
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+2_score
+  rotate: false
+  xy: 36, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+3_score
+  rotate: false
+  xy: 72, 48
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+4_score
+  rotate: false
+  xy: 2, 2
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+5_score
+  rotate: false
+  xy: 100, 48
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+hopqua_score
+  rotate: false
+  xy: 2, 38
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+x_score
+  rotate: false
+  xy: 72, 29
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1

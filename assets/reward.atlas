@@ -1,0 +1,69 @@
+
+reward.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Flare
+  rotate: false
+  xy: 2, 2
+  size: 705, 708
+  orig: 705, 708
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 724, 1121
+  size: 658, 871
+  orig: 658, 871
+  offset: 0, 0
+  index: -1
+chucmung
+  rotate: false
+  xy: 1152, 1062
+  size: 219, 57
+  orig: 219, 57
+  offset: 0, 0
+  index: -1
+endBG
+  rotate: false
+  xy: 2, 712
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+goodluck
+  rotate: false
+  xy: 1384, 1735
+  size: 398, 56
+  orig: 398, 56
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1384, 1793
+  size: 348, 199
+  orig: 348, 199
+  offset: 0, 0
+  index: -1
+nhandemo
+  rotate: false
+  xy: 724, 992
+  size: 426, 127
+  orig: 426, 127
+  offset: 0, 0
+  index: -1
+nhanduoc
+  rotate: false
+  xy: 724, 829
+  size: 357, 161
+  orig: 357, 161
+  offset: 0, 0
+  index: -1
+thongtin
+  rotate: false
+  xy: 724, 742
+  size: 351, 85
+  orig: 351, 85
+  offset: 0, 0
+  index: -1
